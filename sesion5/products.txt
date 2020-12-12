@@ -1,0 +1,3 @@
+123,"Coca-cola 600ml",10.5
+124,"Coca-cola 2L",18.5
+125,"Galletas Marías",20.5
